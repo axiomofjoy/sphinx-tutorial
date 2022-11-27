@@ -14,6 +14,8 @@ This library is under heavy development
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
 <!-- # Indices and tables
