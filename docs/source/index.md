@@ -7,6 +7,9 @@
 :relative-images:
 ```
 
+For further info, check out {doc}`usage`.
+Read installation structions in {ref}`Installation`.
+
 ```{warning}
 This library is under heavy development
 ```
