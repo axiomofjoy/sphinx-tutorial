@@ -34,6 +34,7 @@ extensions = [
     "myst_parser",
     "sphinx.ext.duration",
     "sphinx.ext.autosectionlabel",
+    "nbsphinx", # Similar to MyST-NB
 ]
 
 # Add any paths that contain templates here, relative to this directory.
