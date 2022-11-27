@@ -34,6 +34,8 @@ extensions = [
     "myst_parser",
     "sphinx.ext.duration",
     "sphinx.ext.autosectionlabel",
+    "sphinx.ext.autodoc",
+    # "sphinx.ext.napoleon" # – Support for NumPy and Google style docstrings (https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html)
     "nbsphinx", # Similar to MyST-NB
 ]
 
